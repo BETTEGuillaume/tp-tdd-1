@@ -4,7 +4,7 @@
 * BAUDOIN THIBAULT  :
 * BAUDRY  OSCAR :
 * BELS  ALEXIS  :
-* BETTE GUILLAUME :
+* BETTE GUILLAUME : https://github.com/BETTEGuillaume/RomanNumerals.git
 * BREHON  ULYSSE  :
 * CANTA CARMELO :
 * CHABENIUK RAPHAËL :
